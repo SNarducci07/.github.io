@@ -1,0 +1,90 @@
+body {
+  background-color: rgba(90, 150, 166, 0.659);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(251, 247, 236);
+  margin: 10px;
+  padding: 10px;
+ }
+      
+  header {
+    background-image: url("../images/PointilismMountain.jpg");
+    height: 180px;
+    width: 94%;
+    border: 8px double rgb(208, 67, 25);
+    margin: 10px;
+    padding: 25px;
+  
+  }
+
+  h1 {
+    color: rgb(251, 247, 236);
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    opacity: .75;
+  }
+
+h2 {
+  text-align: center;
+}
+
+
+.wrapper {
+  text-align: center;
+  color: rgb(251, 247, 236);
+  font-size: 28px;
+  width: 85%;
+  border: 8px solid rgb(208, 67, 25);
+  background-color: rgba(230, 195, 234, 0.615);
+  padding: 10px auto;
+  margin: 20px auto;
+  text-align: center;
+}
+ 
+
+.portrait {
+  height: 425px;
+  width: 300px;
+  display: inline-block;
+  color: rgb(251, 247, 236);
+  border: 5px solid rgb(213, 135, 138);
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.landscape {
+  height: 425px;
+  width: 450px;
+  display: inline-block;
+  color: rgb(251, 247, 236);
+  border: 5px solid rgb(213, 135, 138);
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.square {
+  height: 425px;
+  width: 450px;
+  display: inline-block;
+  color: rgb(251, 247, 236);
+  border: 5px solid rgb(213, 135, 138);
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.third {
+  color: rgb(99, 225, 234);
+  font-size: 24px;
+  height: 50px;
+  background-color: rgb(149, 49, 162);
+
+}
+
